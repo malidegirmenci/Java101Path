@@ -1,2 +1,4 @@
-JAVA 101
-Practice List
+# JAVA 101
+
+## Practice List
+Execercises
