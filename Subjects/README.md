@@ -1,5 +1,5 @@
 # JAVA 101 
-
+Bu patikada değişkenler, veri tipleri, temel operatörler, koşullu ifade, if ve else, switch- case, döngüler, while döngüsü, do-while döngüsü, for döngüsü, continue ve break, metot, return ve void, overloading, recursive, sınıf ve nesne, constructor(yapıcı), tek boyutlu dizi, çok boyutlu dizi, foreach... gibi birçok temel konular işlenmiştir.
 ## Konu Listesi
 1 - [Temel Kavramlar](https://github.com/malidegirmenci/Java101Path/blob/5f1a8b50315e274d094aed2bdb2f566356d31a89/Subjects/01-temelKavramlar.md)    
 2 - [Java Nedir?](https://github.com/malidegirmenci/Java101Path/blob/5f1a8b50315e274d094aed2bdb2f566356d31a89/Subjects/02-javaNedir.md)  
