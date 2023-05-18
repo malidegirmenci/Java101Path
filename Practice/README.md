@@ -1,5 +1,4 @@
 # JAVA 101
-
 ## Practice List
 ### Execercises  
 00 - [Grade Average](https://github.com/malidegirmenci/Java101Path/tree/6fe38d329b3c92b7bead87f1c4de325fcfd63c8f/Practice/Ex00_GradeAverage)  
@@ -10,3 +9,50 @@
 05 - [Basic Calculator](https://github.com/malidegirmenci/Java101Path/tree/189afab985cb4b255911ee0bdb19aa1e2244888e/Practice/Ex05_Calculator)  
 06 - [User Login](https://github.com/malidegirmenci/Java101Path/tree/6fe38d329b3c92b7bead87f1c4de325fcfd63c8f/Practice/Ex06_UserLogin)  
 07 - [Grade Pass](https://github.com/malidegirmenci/Java101Path/tree/6fe38d329b3c92b7bead87f1c4de325fcfd63c8f/Practice/Ex07_GradePass)  
+08 - [Suggest Event](https://github.com/malidegirmenci/Java101Path/tree/16b01d2b2011a379acb110c4835be6c2fae3a94c/Practice/Ex08_SuggestEvent)
+09 - [Sorting Numbers](https://github.com/malidegirmenci/Java101Path/tree/16b01d2b2011a379acb110c4835be6c2fae3a94c/Practice/Ex09_SortingNumbers)  
+10 - [Horoscope Calculator](https://github.com/malidegirmenci/Java101Path/tree/16b01d2b2011a379acb110c4835be6c2fae3a94c/Practice/Ex10_HoroscopeCalc)  
+11 - [Even Bumber Finder](https://github.com/malidegirmenci/Java101Path/tree/16b01d2b2011a379acb110c4835be6c2fae3a94c/Practice/Ex11_EvenNumberFinder)  
+12 - [Odd Number Addition](https://github.com/malidegirmenci/Java101Path/tree/d585995d563ceb696ad0d5a08eeb47f74442a7eb/Practice/Ex12_OddNumbersAddition)
+13 - [Powers of Numbers](https://github.com/malidegirmenci/Java101Path/tree/d585995d563ceb696ad0d5a08eeb47f74442a7eb/Practice/Ex13_PowerOfNum)  
+14 - [Factorial](https://github.com/malidegirmenci/Java101Path/tree/d585995d563ceb696ad0d5a08eeb47f74442a7eb/Practice/Ex14_Factorial)  
+15 - [Exponential Numbers Calculator](https://github.com/malidegirmenci/Java101Path/tree/d585995d563ceb696ad0d5a08eeb47f74442a7eb/Practice/Ex15_ExponentialNumbers)  
+16 - [Armstrong Number](https://github.com/malidegirmenci/Java101Path/tree/d585995d563ceb696ad0d5a08eeb47f74442a7eb/Practice/Ex16_ArmstrongNumbers)  
+17 - [Harmonic Series](https://github.com/malidegirmenci/Java101Path/tree/d585995d563ceb696ad0d5a08eeb47f74442a7eb/Practice/Ex17_HarmonicSeries)  
+18 - [Triangle With Stars](https://github.com/malidegirmenci/Java101Path/tree/d585995d563ceb696ad0d5a08eeb47f74442a7eb/Practice/Ex18_TriangleWithStars)  
+19 - [ATM Project](https://github.com/malidegirmenci/Java101Path/tree/83c7329258f45898db284baa73fd05b3c7e33201/Practice/Ex19_ATMProject)  
+20 - [GCD and LCM Finder](https://github.com/malidegirmenci/Java101Path/blob/74f66ecd5ae10c1a9435a368a651c5f0a41e931a/Practice/Ex20_GCDandLCM/README.md)  
+21 - [Palindrome Number](https://github.com/malidegirmenci/Java101Path/tree/74f66ecd5ae10c1a9435a368a651c5f0a41e931a/Practice/Ex21_PalindromeNumber)  
+22 - [Fibonacci Series With Recursive Function](https://github.com/malidegirmenci/Java101Path/tree/74f66ecd5ae10c1a9435a368a651c5f0a41e931a/Practice/Ex22_FibonacciSeriesWithRecursive)  
+23 - [Advanced Calculator](https://github.com/malidegirmenci/Java101Path/tree/74f66ecd5ae10c1a9435a368a651c5f0a41e931a/Practice/Ex23_AdvancedCalculator)  
+24 - [Student Information System](https://github.com/malidegirmenci/Java101Path/tree/74f66ecd5ae10c1a9435a368a651c5f0a41e931a/Practice/Ex24_StudentInformationSystem)  
+25 - [Boxing Game](https://github.com/malidegirmenci/Java101Path/tree/74f66ecd5ae10c1a9435a368a651c5f0a41e931a/Practice/Ex25_BoxingGame)  
+26 - [Harmonic Series Sum and Average](https://github.com/malidegirmenci/Java101Path/tree/74f66ecd5ae10c1a9435a368a651c5f0a41e931a/Practice/Ex26_AverageofArray)  
+27 - [Write Letter B With Multidimensional Array](https://github.com/malidegirmenci/Java101Path/tree/74f66ecd5ae10c1a9435a368a651c5f0a41e931a/Practice/Ex27_WriteLetterBWithMultidimensionalArrays)  
+28 - [Repeating Numbers Finder](https://github.com/malidegirmenci/Java101Path/tree/74f66ecd5ae10c1a9435a368a651c5f0a41e931a/Practice/Ex28_RepeatingNumbersFinder)  
+29 - [Number Guessing Game](https://github.com/malidegirmenci/Java101Path/tree/74f66ecd5ae10c1a9435a368a651c5f0a41e931a/Practice/Ex29_GuessNumberGame)  
+30 - [Palindromik Word Finder](https://github.com/malidegirmenci/Java101Path/tree/74f66ecd5ae10c1a9435a368a651c5f0a41e931a/Practice/Ex30_PalindromicWords)
+
+### Homework
+00 - [Body Mass Index Calculator](https://github.com/malidegirmenci/Java101Path/tree/74f66ecd5ae10c1a9435a368a651c5f0a41e931a/Practice/Hw00_BodyMassIndex)  
+01 - [Grocery Cashier Program](https://github.com/malidegirmenci/Java101Path/tree/74f66ecd5ae10c1a9435a368a651c5f0a41e931a/Practice/Hw01_GroceryCashier)  
+02 - [Fly Ticket Fee Calculator](https://github.com/malidegirmenci/Java101Path/tree/74f66ecd5ae10c1a9435a368a651c5f0a41e931a/Practice/Hw02_FlyTicketFeeCalc)  
+03 - [Chinese Zodiac Calculator](https://github.com/malidegirmenci/Java101Path/tree/74f66ecd5ae10c1a9435a368a651c5f0a41e931a/Practice/Hw03_ChineseZodiac)  
+04 - [Leap Year Calculator](https://github.com/malidegirmenci/Java101Path/tree/74f66ecd5ae10c1a9435a368a651c5f0a41e931a/Practice/Hw04_LeapYear)  
+05 - [Max and Min Number Finder](https://github.com/malidegirmenci/Java101Path/tree/74f66ecd5ae10c1a9435a368a651c5f0a41e931a/Practice/Hw05_MaxAndMinNumbers)  
+06 - [Perfect Number Finder](https://github.com/malidegirmenci/Java101Path/tree/1a3160557017f92bf17ff28989b5db2d8c809fa3/Practice/Hw06_PerfectNumber)
+07 - [Inverted Triangle](https://github.com/malidegirmenci/Java101Path/tree/1a3160557017f92bf17ff28989b5db2d8c809fa3/Practice/Hw07_InvertedTriangle)
+08 - [Prime Numbers](https://github.com/malidegirmenci/Java101Path/tree/1a3160557017f92bf17ff28989b5db2d8c809fa3/Practice/Hw08_PrimeNumbers)  
+09 - [Fibonacci Series With Loop](https://github.com/malidegirmenci/Java101Path/tree/1a3160557017f92bf17ff28989b5db2d8c809fa3/Practice/Hw09_FibonacciSeries)  
+10 - [Calculating Exponents with Recursive Methods](https://github.com/malidegirmenci/Java101Path/tree/1a3160557017f92bf17ff28989b5db2d8c809fa3/Practice/Hw10_ExponentialNumbersWithRecursive)  
+11 - [Finding Prime Numbers with Recursive](https://github.com/malidegirmenci/Java101Path/tree/1a3160557017f92bf17ff28989b5db2d8c809fa3/Practice/Hw11_PrimeNumberWithRecursive)  
+12 - [Pattern](https://github.com/malidegirmenci/Java101Path/tree/1a3160557017f92bf17ff28989b5db2d8c809fa3/Practice/Hw12_Pattern)  
+13 - [Salary Account](https://github.com/malidegirmenci/Java101Path/tree/1a3160557017f92bf17ff28989b5db2d8c809fa3/Practice/Hw13_SalaryAccount)
+14 - [Sorting of Array](https://github.com/malidegirmenci/Java101Path/tree/1a3160557017f92bf17ff28989b5db2d8c809fa3/Practice/Hw14_SortingOfArray)
+15 - [Frequency of Array](https://github.com/malidegirmenci/Java101Path/tree/1a3160557017f92bf17ff28989b5db2d8c809fa3/Practice/Hw15_FrequencyOfArray)  
+16 - [Transpose of Matrix](https://github.com/malidegirmenci/Java101Path/tree/ad30c79bb760b5544bf0a7527b6015dc9c2659df/Practice/Hw16_TransposeOfMatrix)  
+
+### Final Project
+[Mine Sweeper](https://github.com/malidegirmenci/Java101Path/tree/ad30c79bb760b5544bf0a7527b6015dc9c2659df/Practice/FinalProject_MineSweeper)
+
+
