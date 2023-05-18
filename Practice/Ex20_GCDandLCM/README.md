@@ -1,3 +1,4 @@
+# GCD AND LCM FINDER
 We are writing a program that finds the GCD and LCC values of two numbers in Java.
 
 GCD: The greatest common divisor of two or more natural numbers is called the greatest common divisor of these numbers, in short GCD.
