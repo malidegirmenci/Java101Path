@@ -1,11 +1,11 @@
-# Dizin Frekansı
-Java dilinde, dizideki elemanların kaç kez tekrar edildiğini yani frekanslarını bulan programı yazınız.
+# Frequency of Array
+Write a program in Java that finds the frequency of the elements in the array.
 
-**Senaryo**
-```java
-Dizi : [10, 20, 20, 10, 10, 20, 5, 20]
-Tekrar Sayıları
-10 sayısı 3 kere tekrar edildi.
-20 sayısı 4 kere tekrar edildi.
-5 sayısı 1 kere tekrar edildi.
+**Scenario**
+``java
+Series : [10, 20, 20, 10, 10, 20, 5, 20]
+Repeat Counts
+The number 10 was repeated 3 times.
+Number 20 was repeated 4 times.
+Number 5 was repeated once.
 ```
