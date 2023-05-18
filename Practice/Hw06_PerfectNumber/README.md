@@ -1,4 +1,4 @@
-# PERFECT ISSUE
+# Perfect Number
 Write the program in Java language, which finds whether a number entered from the keyboard is a perfect number or not, and if the number is a perfect number, **“it is a perfect number.”** otherwise **“not a perfect number.”** statements on the screen.
 
 ## What is a Perfect Number?
